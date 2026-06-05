@@ -1,0 +1,21 @@
+
+Code,MenuLabel,Explainer
+PGM,Program,Program Recording
+CLN,Clean Feed Recording,Clean Feeds from Truck/Multicamera Productions
+ISO,ISO Camera Record,ISO Record from Truck/Multicam Production
+MIR,Mira+ Recordings,Mira+ Recording Melts from Truck
+INT,Interview,Raw Interview Files
+BRL,B-Roll,B-Roll Files (general/people/catch-all)
+CLS,Classroom,Classroom B-Roll Specifically
+SCN,Scenic,Outdoor Scenic Shots
+STU,Studio Shoot Files,Studio Shoot Files (Multicam or non-multi cam)
+DJI,Drone Files,Any Aerial Video
+WSO,Womens Soccer,Womens Soccer Footage (ALL - Studio/Game)
+MSO,Mens Soccer,Mens Soccer (ALL - Studio/Game)
+WVB,Womens Volleyball,Womens Volleyball (ALL - Studio/Game)
+MBB,Mens Basketball,Mens Basketball (ALL - Studio/Game)
+WBB,Womens Basketball,Womens Basketball (ALL - Studio/Game)
+BAS,Baseball,Baseball (ALL - Studio/Game)
+SOF,Softball,Softball (ALL - Studio/Game)
+TRC,Track & Field,Track & Field (ALL - Studio/Game)
+FBL,Football,Football (Historic/Archive)
