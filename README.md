@@ -1,0 +1,1 @@
+A small tool for importing video files off of media cards - an attempt to idiot-proof the process, holding a user's hand from selecting media to rename, copy, add basic metadata, and have the copy locations stored in memory but making them easy to override, tweak, or change for future. 
